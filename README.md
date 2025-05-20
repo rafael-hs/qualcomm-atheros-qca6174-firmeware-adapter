@@ -1,4 +1,4 @@
-# qualcomm-atheros-qca6174-firmeware-adapter
+# qualcomm-atheros-qca6174-firmware-adapter
 
 This repository has a binary to install and solve wifi problem in some notebooks including redmibook 14 and redmibook 15.
 
